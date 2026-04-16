@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+      xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+      xml:base="https://community.chocolatey.org/api/v2/">
+  <id>https://community.chocolatey.org/api/v2/FindPackagesById</id>
+  <title type="text">FindPackagesById</title>
+  <updated>2024-01-15T12:00:00Z</updated>
+  <entry>
+    <m:properties>
+      <d:Id>7zip</d:Id>
+      <d:Version>24.9.0</d:Version>
+      <d:IsLatestVersion m:type="Edm.Boolean">true</d:IsLatestVersion>
+      <d:IsPrerelease m:type="Edm.Boolean">false</d:IsPrerelease>
+      <d:Listed m:type="Edm.Boolean">true</d:Listed>
+      <d:DownloadCount m:type="Edm.Int32">15234567</d:DownloadCount>
+      <d:VersionDownloadCount m:type="Edm.Int32">87432</d:VersionDownloadCount>
+      <d:PackageHash>abc123==</d:PackageHash>
+      <d:PackageHashAlgorithm>SHA512</d:PackageHashAlgorithm>
+      <d:PackageSize m:type="Edm.Int64">1234567</d:PackageSize>
+      <d:Published m:type="Edm.DateTime">2024-01-01T00:00:00</d:Published>
+      <d:Created m:type="Edm.DateTime">2024-01-01T00:00:00</d:Created>
+      <d:LastUpdated m:type="Edm.DateTime">2024-01-01T00:00:00</d:LastUpdated>
+      <d:Dependencies></d:Dependencies>
+    </m:properties>
+  </entry>
+  <entry>
+    <m:properties>
+      <d:Id>7zip</d:Id>
+      <d:Version>23.1.0</d:Version>
+      <d:IsLatestVersion m:type="Edm.Boolean">false</d:IsLatestVersion>
+      <d:IsPrerelease m:type="Edm.Boolean">false</d:IsPrerelease>
+      <d:Listed m:type="Edm.Boolean">true</d:Listed>
+      <d:DownloadCount m:type="Edm.Int32">15234567</d:DownloadCount>
+      <d:VersionDownloadCount m:type="Edm.Int32">2341876</d:VersionDownloadCount>
+      <d:PackageHash>def456==</d:PackageHash>
+      <d:PackageHashAlgorithm>SHA512</d:PackageHashAlgorithm>
+      <d:PackageSize m:type="Edm.Int64">1198234</d:PackageSize>
+      <d:Published m:type="Edm.DateTime">2023-06-01T00:00:00</d:Published>
+      <d:Created m:type="Edm.DateTime">2023-06-01T00:00:00</d:Created>
+      <d:LastUpdated m:type="Edm.DateTime">2023-06-01T00:00:00</d:LastUpdated>
+      <d:Dependencies></d:Dependencies>
+    </m:properties>
+  </entry>
+  <entry>
+    <m:properties>
+      <d:Id>7zip</d:Id>
+      <d:Version>22.1.0</d:Version>
+      <d:IsLatestVersion m:type="Edm.Boolean">false</d:IsLatestVersion>
+      <d:IsPrerelease m:type="Edm.Boolean">false</d:IsPrerelease>
+      <d:Listed m:type="Edm.Boolean">true</d:Listed>
+      <d:DownloadCount m:type="Edm.Int32">15234567</d:DownloadCount>
+      <d:VersionDownloadCount m:type="Edm.Int32">4523112</d:VersionDownloadCount>
+      <d:PackageHash>ghi789==</d:PackageHash>
+      <d:PackageHashAlgorithm>SHA512</d:PackageHashAlgorithm>
+      <d:PackageSize m:type="Edm.Int64">1156000</d:PackageSize>
+      <d:Published m:type="Edm.DateTime">2022-07-01T00:00:00</d:Published>
+      <d:Created m:type="Edm.DateTime">2022-07-01T00:00:00</d:Created>
+      <d:LastUpdated m:type="Edm.DateTime">2022-07-01T00:00:00</d:LastUpdated>
+      <d:Dependencies></d:Dependencies>
+    </m:properties>
+  </entry>
+</feed>

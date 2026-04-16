@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+      xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+      xml:base="https://community.chocolatey.org/api/v2/">
+  <id>https://community.chocolatey.org/api/v2/Search</id>
+  <title type="text">Search</title>
+  <updated>2024-01-15T12:00:00Z</updated>
+  <entry>
+    <m:properties>
+      <d:Id>7zip</d:Id>
+      <d:Version>24.9.0</d:Version>
+      <d:Title>7-Zip</d:Title>
+      <d:Description>7-Zip is a file archiver with a high compression ratio.</d:Description>
+      <d:Summary>7-Zip is a file archiver with a high compression ratio.</d:Summary>
+      <d:Authors>Igor Pavlov</d:Authors>
+      <d:Owners>chocolatey</d:Owners>
+      <d:Tags>7zip archiver zip</d:Tags>
+      <d:IsPrerelease m:type="Edm.Boolean">false</d:IsPrerelease>
+      <d:IsLatestVersion m:type="Edm.Boolean">true</d:IsLatestVersion>
+      <d:IsAbsoluteLatestVersion m:type="Edm.Boolean">true</d:IsAbsoluteLatestVersion>
+      <d:Listed m:type="Edm.Boolean">true</d:Listed>
+      <d:DownloadCount m:type="Edm.Int32">15234567</d:DownloadCount>
+      <d:VersionDownloadCount m:type="Edm.Int32">87432</d:VersionDownloadCount>
+      <d:PackageHash>abc123==</d:PackageHash>
+      <d:PackageHashAlgorithm>SHA512</d:PackageHashAlgorithm>
+      <d:PackageSize m:type="Edm.Int64">1234567</d:PackageSize>
+      <d:Published m:type="Edm.DateTime">2024-01-01T00:00:00</d:Published>
+      <d:Created m:type="Edm.DateTime">2024-01-01T00:00:00</d:Created>
+      <d:LastUpdated m:type="Edm.DateTime">2024-01-01T00:00:00</d:LastUpdated>
+      <d:Dependencies></d:Dependencies>
+    </m:properties>
+  </entry>
+  <entry>
+    <m:properties>
+      <d:Id>notepadplusplus</d:Id>
+      <d:Version>8.7.5</d:Version>
+      <d:Title>Notepad++</d:Title>
+      <d:Description>Notepad++ is a free source code editor.</d:Description>
+      <d:Summary>Notepad++ is a free source code editor.</d:Summary>
+      <d:Authors>Don Ho</d:Authors>
+      <d:Owners>chocolatey</d:Owners>
+      <d:Tags>notepad++ text editor code</d:Tags>
+      <d:IsPrerelease m:type="Edm.Boolean">false</d:IsPrerelease>
+      <d:IsLatestVersion m:type="Edm.Boolean">true</d:IsLatestVersion>
+      <d:IsAbsoluteLatestVersion m:type="Edm.Boolean">true</d:IsAbsoluteLatestVersion>
+      <d:Listed m:type="Edm.Boolean">true</d:Listed>
+      <d:DownloadCount m:type="Edm.Int32">8765432</d:DownloadCount>
+      <d:VersionDownloadCount m:type="Edm.Int32">54321</d:VersionDownloadCount>
+      <d:PackageHash>xyz789==</d:PackageHash>
+      <d:PackageHashAlgorithm>SHA512</d:PackageHashAlgorithm>
+      <d:PackageSize m:type="Edm.Int64">5432100</d:PackageSize>
+      <d:Published m:type="Edm.DateTime">2024-02-01T00:00:00</d:Published>
+      <d:Created m:type="Edm.DateTime">2024-02-01T00:00:00</d:Created>
+      <d:LastUpdated m:type="Edm.DateTime">2024-02-01T00:00:00</d:LastUpdated>
+      <d:Dependencies></d:Dependencies>
+    </m:properties>
+  </entry>
+</feed>
